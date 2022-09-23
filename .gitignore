@@ -1,4 +1,2 @@
 node_modules/
-index.js
-package.json
-yarn.lock
+Dockerfile
